@@ -12,9 +12,23 @@
         <div id="app">Please wait…</div>
         <script>
             window.$docsify = {
-                // App settings
-                loadSidebar: true,
-                loadNavbar: true
+                /** App settings */
+                loadSidebar: true,  // load _sidebar.md by default
+                loadNavbar: true,  // load _navbar.md by default
+                coverpage: true,  // load _coverpage.md by default
+                coverpage: ['/', '/ru-ru/'],
+                fallbackLanguages: ['ru', 'de'],
+                /** Site settings */
+                name: 'docsify',
+                nameLink: {
+                    '/ru-ru/': '#/ru-ru/',
+                    '/': '#/',
+                },
+                notFoundPage: true,  // load _404.md by default
+                relativePath: true,
+                routerMode: 'history',
+                /** Themes */
+                themeColor: '#212121',
             };
         </script>
         <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
