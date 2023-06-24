@@ -1,2 +1,2 @@
-# docsify-template
-Template for docsify
+# Docsify template
+Simple template for docsify sites.
