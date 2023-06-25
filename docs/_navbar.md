@@ -1,5 +1,5 @@
 * [En](/)
-* [Ru](/ru-tu/)
+* [Ru](/ru-ru/)
 
 * Getting started
 
