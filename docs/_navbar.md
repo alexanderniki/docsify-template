@@ -1,7 +1,7 @@
 * Languages
 
-  * [En](/docsify-template/docs/)
-  * [Ru](/docsify-template/docs/ru-ru/)
+  * [English](/docsify-template/docs/)
+  * [Русский](/docsify-template/docs/ru-ru/)
 
 * Getting started
 
