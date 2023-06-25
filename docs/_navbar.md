@@ -1,5 +1,7 @@
-* [En](/)
-* [Ru](/ru-ru/)
+* Languages
+
+  * [En](/docsify-template/docs/)
+  * [Ru](/docsify-template/docs/ru-ru/)
 
 * Getting started
 
