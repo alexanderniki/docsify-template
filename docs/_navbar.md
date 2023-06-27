@@ -1,7 +1,7 @@
 * Languages
 
-  * [English](/docsify-template/docs/)
-  * [Русский](/docsify-template/docs/ru-ru/)
+  * [English (EN)](/docsify-template/docs/)
+  * [Русский (RU)](/docsify-template/docs/ru-ru/)
 
 * Getting started
 
@@ -16,3 +16,5 @@
   * [Using plugins](plugins.md)
   * [Markdown configuration](markdown.md)
   * [Language highlight](language-highlight.md)
+
+* [About](about.md)
