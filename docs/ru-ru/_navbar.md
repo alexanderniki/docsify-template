@@ -1,7 +1,7 @@
 * Язык
 
-  * [English (EN)](/)
-  * [Русский (RU)](/ru-ru/)
+  * [English (EN)](/docsify-template/docs/)
+  * [Русский (RU)](/docsify-template/docs/ru-ru/)
 
 * Начало работы
 
