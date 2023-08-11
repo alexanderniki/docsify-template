@@ -15,8 +15,12 @@
                 /** App settings */
                 loadSidebar: true,  // load _sidebar.md by default
                 loadNavbar: true,  // load _navbar.md by default
-                coverpage: true,  // load _coverpage.md by default
+                //coverpage: true,  // load _coverpage.md by default
                 //coverpage: ['/', '/ru-ru/'],
+                coverpage: {
+                    '/': '_coverpage.md',
+                    '/ru-ru/': '_coverpage.md',
+                },
                 fallbackLanguages: ['ru', 'de'],
                 /** Site settings */
                 name: 'docsify template',
