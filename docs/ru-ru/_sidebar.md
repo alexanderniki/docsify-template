@@ -1,4 +1,4 @@
 * Второстепенная навигация
 
-  * [Home](/)
-  * [About](about.md "About docsify template")
+  * [Главная](/)
+  * [О проекте](about.md "About docsify template")
